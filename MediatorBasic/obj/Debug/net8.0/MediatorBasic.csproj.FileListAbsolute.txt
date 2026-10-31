@@ -1,0 +1,12 @@
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\bin\Debug\net8.0\MediatorBasic.deps.json
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\bin\Debug\net8.0\MediatorBasic.dll
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\bin\Debug\net8.0\MediatorBasic.pdb
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\obj\Debug\net8.0\MediatorBasic.csproj.AssemblyReference.cache
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\obj\Debug\net8.0\MediatorBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\obj\Debug\net8.0\MediatorBasic.AssemblyInfoInputs.cache
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\obj\Debug\net8.0\MediatorBasic.AssemblyInfo.cs
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\obj\Debug\net8.0\MediatorBasic.csproj.CoreCompileInputs.cache
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\obj\Debug\net8.0\MediatorBasic.dll
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\obj\Debug\net8.0\refint\MediatorBasic.dll
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\obj\Debug\net8.0\MediatorBasic.pdb
+C:\Users\dachi\RiderProjects\MediatorBasic\MediatorBasic\obj\Debug\net8.0\ref\MediatorBasic.dll
